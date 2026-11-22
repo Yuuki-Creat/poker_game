@@ -724,7 +724,7 @@ const StatsManager = {
  * ============================================================================
  */
 const GameState = {
-  numOpponents: 6,
+  numOpponents: 8,
   handNumber: 0,
   street: 'IDLE', // 'PREFLOP' | 'FLOP' | 'TURN' | 'RIVER' | 'SHOWDOWN'
   deck: [],
